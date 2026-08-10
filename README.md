@@ -1,2 +1,2 @@
-// Pantera is made to with swift OS upon launch check the top right menu bar for an audio icon this will open the UI 
+// Pantera is made with swift OS upon launch check the top right menu bar for an audio icon this will open the UI 
 // ap can be made to stay on screen within settings
